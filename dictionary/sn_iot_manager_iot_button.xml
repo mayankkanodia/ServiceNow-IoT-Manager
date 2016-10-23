@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element attributes="update_synch=true" extends="sys_metadata" label="IOT Button" max_length="40" name="sn_iot_manager_iot_button" type="collection">
+        <element choice="1" label="Button Type" max_length="40" name="button_type" type="choice">
+            <choice/>
+        </element>
+        <element label="Press Script" max_length="4000" name="press_script" type="script_server"/>
+        <element display="true" label="Serial Number" max_length="40" name="serial_number" type="string"/>
+    </element>
+</database>

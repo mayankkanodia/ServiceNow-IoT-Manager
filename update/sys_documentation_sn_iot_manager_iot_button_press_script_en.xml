@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="press_script" label="Press Script" language="en" table="sn_iot_manager_iot_button">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>press_script</element>
+            <help/>
+            <hint/>
+            <label>Press Script</label>
+            <language>en</language>
+            <name>sn_iot_manager_iot_button</name>
+            <plural>Press Scripts</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-10-23 01:46:49</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>ce169803c7a6220023c86c158b9763e2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Press Script</sys_name>
+            <sys_package display_value="IoT Manager" source="sn_iot_manager">59a398cfc766220023c86c158b976331</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="IoT Manager">59a398cfc766220023c86c158b976331</sys_scope>
+            <sys_update_name>sys_documentation_sn_iot_manager_iot_button_press_script_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-10-23 01:46:49</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
